@@ -1,0 +1,16 @@
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab12\Lab12\Lab12\bin\Debug\net5.0\Lab12.exe
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab12\Lab12\Lab12\bin\Debug\net5.0\Lab12.deps.json
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab12\Lab12\Lab12\bin\Debug\net5.0\Lab12.runtimeconfig.json
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab12\Lab12\Lab12\bin\Debug\net5.0\Lab12.runtimeconfig.dev.json
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab12\Lab12\Lab12\bin\Debug\net5.0\Lab12.dll
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab12\Lab12\Lab12\bin\Debug\net5.0\ref\Lab12.dll
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab12\Lab12\Lab12\bin\Debug\net5.0\Lab12.pdb
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab12\Lab12\Lab12\obj\Debug\net5.0\Lab12.csprojAssemblyReference.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab12\Lab12\Lab12\obj\Debug\net5.0\Lab12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab12\Lab12\Lab12\obj\Debug\net5.0\Lab12.AssemblyInfoInputs.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab12\Lab12\Lab12\obj\Debug\net5.0\Lab12.AssemblyInfo.cs
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab12\Lab12\Lab12\obj\Debug\net5.0\Lab12.csproj.CoreCompileInputs.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab12\Lab12\Lab12\obj\Debug\net5.0\Lab12.dll
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab12\Lab12\Lab12\obj\Debug\net5.0\ref\Lab12.dll
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab12\Lab12\Lab12\obj\Debug\net5.0\Lab12.pdb
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab12\Lab12\Lab12\obj\Debug\net5.0\Lab12.genruntimeconfig.cache
