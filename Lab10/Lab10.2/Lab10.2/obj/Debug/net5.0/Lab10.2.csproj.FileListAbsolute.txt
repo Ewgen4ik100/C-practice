@@ -1,0 +1,16 @@
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab10\Lab10.2\Lab10.2\bin\Debug\net5.0\Lab10.2.exe
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab10\Lab10.2\Lab10.2\bin\Debug\net5.0\Lab10.2.deps.json
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab10\Lab10.2\Lab10.2\bin\Debug\net5.0\Lab10.2.runtimeconfig.json
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab10\Lab10.2\Lab10.2\bin\Debug\net5.0\Lab10.2.runtimeconfig.dev.json
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab10\Lab10.2\Lab10.2\bin\Debug\net5.0\Lab10.2.dll
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab10\Lab10.2\Lab10.2\bin\Debug\net5.0\ref\Lab10.2.dll
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab10\Lab10.2\Lab10.2\bin\Debug\net5.0\Lab10.2.pdb
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab10\Lab10.2\Lab10.2\obj\Debug\net5.0\Lab10.2.csprojAssemblyReference.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab10\Lab10.2\Lab10.2\obj\Debug\net5.0\Lab10.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab10\Lab10.2\Lab10.2\obj\Debug\net5.0\Lab10.2.AssemblyInfoInputs.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab10\Lab10.2\Lab10.2\obj\Debug\net5.0\Lab10.2.AssemblyInfo.cs
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab10\Lab10.2\Lab10.2\obj\Debug\net5.0\Lab10.2.csproj.CoreCompileInputs.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab10\Lab10.2\Lab10.2\obj\Debug\net5.0\Lab10.2.dll
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab10\Lab10.2\Lab10.2\obj\Debug\net5.0\ref\Lab10.2.dll
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab10\Lab10.2\Lab10.2\obj\Debug\net5.0\Lab10.2.pdb
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab10\Lab10.2\Lab10.2\obj\Debug\net5.0\Lab10.2.genruntimeconfig.cache
