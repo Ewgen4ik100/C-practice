@@ -1,0 +1,38 @@
+﻿<Window x:Class="Lab28._1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab28._1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lArrB" Content="" HorizontalAlignment="Left" Height="99" Margin="174,10,0,0" VerticalAlignment="Top" Width="123"/>
+        <Label x:Name="lArrA" Content="" HorizontalAlignment="Left" Height="99" Margin="10,10,0,0" VerticalAlignment="Top" Width="123" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.55"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-0.59"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox x:Name="tn" HorizontalAlignment="Left" Margin="81,141,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="bGen" Content="Решить" HorizontalAlignment="Left" Margin="81,184,0,0" VerticalAlignment="Top" Width="120" Click="bGen_Click"/>
+        <Label x:Name="lArrRez" Content="" HorizontalAlignment="Left" Height="99" Margin="359,10,0,0" VerticalAlignment="Top" Width="123" RenderTransformOrigin="0.507,0.483"/>
+        <RadioButton x:Name="radioButton1" Content="Сложить" HorizontalAlignment="Left" Margin="358,141,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton2" Content="Отнять" HorizontalAlignment="Left" Margin="358,161,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton3" Content="Умножить" HorizontalAlignment="Left" Margin="358,181,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton4" Content="Разделить" HorizontalAlignment="Left" Margin="358,201,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton5" Content="Умножить на число" HorizontalAlignment="Left" Margin="358,221,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton6" Content="Транспонировать" HorizontalAlignment="Left" Margin="358,264,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Margin="358,241,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="bRez" Content="Решить" HorizontalAlignment="Left" Margin="454,310,0,0" VerticalAlignment="Top" Width="86" Click="bRez_Click"/>
+        <Label x:Name="label4" Content="" HorizontalAlignment="Left" Height="23" Margin="140,44,0,0" VerticalAlignment="Top" Width="26"/>
+        <Label x:Name="lArrRezQ" Content="" HorizontalAlignment="Left" Height="99" Margin="540,10,0,0" VerticalAlignment="Top" Width="123" RenderTransformOrigin="0.507,0.483"/>
+        <RadioButton x:Name="radioButton7" Content="Определитель" HorizontalAlignment="Left" Margin="527,141,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioButton8" Content="Обратная матрица" HorizontalAlignment="Left" Margin="527,161,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
