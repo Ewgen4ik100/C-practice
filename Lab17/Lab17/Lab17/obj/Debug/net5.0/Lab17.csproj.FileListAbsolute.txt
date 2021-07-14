@@ -1,0 +1,16 @@
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab17\Lab17\Lab17\bin\Debug\net5.0\Lab17.exe
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab17\Lab17\Lab17\bin\Debug\net5.0\Lab17.deps.json
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab17\Lab17\Lab17\bin\Debug\net5.0\Lab17.runtimeconfig.json
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab17\Lab17\Lab17\bin\Debug\net5.0\Lab17.runtimeconfig.dev.json
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab17\Lab17\Lab17\bin\Debug\net5.0\Lab17.dll
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab17\Lab17\Lab17\bin\Debug\net5.0\ref\Lab17.dll
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab17\Lab17\Lab17\bin\Debug\net5.0\Lab17.pdb
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab17\Lab17\Lab17\obj\Debug\net5.0\Lab17.csprojAssemblyReference.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab17\Lab17\Lab17\obj\Debug\net5.0\Lab17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab17\Lab17\Lab17\obj\Debug\net5.0\Lab17.AssemblyInfoInputs.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab17\Lab17\Lab17\obj\Debug\net5.0\Lab17.AssemblyInfo.cs
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab17\Lab17\Lab17\obj\Debug\net5.0\Lab17.csproj.CoreCompileInputs.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab17\Lab17\Lab17\obj\Debug\net5.0\Lab17.dll
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab17\Lab17\Lab17\obj\Debug\net5.0\ref\Lab17.dll
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab17\Lab17\Lab17\obj\Debug\net5.0\Lab17.pdb
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab17\Lab17\Lab17\obj\Debug\net5.0\Lab17.genruntimeconfig.cache
