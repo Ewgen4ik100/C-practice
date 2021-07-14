@@ -1,0 +1,45 @@
+C:\Users\denis\OneDrive\Документы\$Шорага\$KPUYP\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.csprojAssemblyReference.cache
+C:\Users\denis\OneDrive\Документы\$Шорага\$KPUYP\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.Form1.resources
+C:\Users\denis\OneDrive\Документы\$Шорага\$KPUYP\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.csproj.GenerateResource.cache
+C:\Users\denis\OneDrive\Документы\$Шорага\$KPUYP\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\Документы\$Шорага\$KPUYP\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.AssemblyInfo.cs
+C:\Users\denis\OneDrive\Документы\$Шорага\$KPUYP\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Документы\$Шорага\$KPUYP\_18form\_18form\bin\Debug\netcoreapp3.1\_18form.exe
+C:\Users\denis\OneDrive\Документы\$Шорага\$KPUYP\_18form\_18form\bin\Debug\netcoreapp3.1\_18form.deps.json
+C:\Users\denis\OneDrive\Документы\$Шорага\$KPUYP\_18form\_18form\bin\Debug\netcoreapp3.1\_18form.runtimeconfig.json
+C:\Users\denis\OneDrive\Документы\$Шорага\$KPUYP\_18form\_18form\bin\Debug\netcoreapp3.1\_18form.runtimeconfig.dev.json
+C:\Users\denis\OneDrive\Документы\$Шорага\$KPUYP\_18form\_18form\bin\Debug\netcoreapp3.1\_18form.dll
+C:\Users\denis\OneDrive\Документы\$Шорага\$KPUYP\_18form\_18form\bin\Debug\netcoreapp3.1\_18form.pdb
+C:\Users\denis\OneDrive\Документы\$Шорага\$KPUYP\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.dll
+C:\Users\denis\OneDrive\Документы\$Шорага\$KPUYP\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.pdb
+C:\Users\denis\OneDrive\Документы\$Шорага\$KPUYP\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.genruntimeconfig.cache
+C:\Users\manic\Desktop\Серега В5\_18form\_18form\bin\Debug\netcoreapp3.1\_18form.exe
+C:\Users\manic\Desktop\Серега В5\_18form\_18form\bin\Debug\netcoreapp3.1\_18form.deps.json
+C:\Users\manic\Desktop\Серега В5\_18form\_18form\bin\Debug\netcoreapp3.1\_18form.runtimeconfig.json
+C:\Users\manic\Desktop\Серега В5\_18form\_18form\bin\Debug\netcoreapp3.1\_18form.runtimeconfig.dev.json
+C:\Users\manic\Desktop\Серега В5\_18form\_18form\bin\Debug\netcoreapp3.1\_18form.dll
+C:\Users\manic\Desktop\Серега В5\_18form\_18form\bin\Debug\netcoreapp3.1\_18form.pdb
+C:\Users\manic\Desktop\Серега В5\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.Form1.resources
+C:\Users\manic\Desktop\Серега В5\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.csproj.GenerateResource.cache
+C:\Users\manic\Desktop\Серега В5\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.AssemblyInfoInputs.cache
+C:\Users\manic\Desktop\Серега В5\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.AssemblyInfo.cs
+C:\Users\manic\Desktop\Серега В5\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.csproj.CoreCompileInputs.cache
+C:\Users\manic\Desktop\Серега В5\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.dll
+C:\Users\manic\Desktop\Серега В5\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.pdb
+C:\Users\manic\Desktop\Серега В5\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.genruntimeconfig.cache
+C:\Users\manic\Desktop\Серега В5\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.csprojAssemblyReference.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab20\_18form\_18form\bin\Debug\netcoreapp3.1\_18form.exe
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab20\_18form\_18form\bin\Debug\netcoreapp3.1\_18form.deps.json
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab20\_18form\_18form\bin\Debug\netcoreapp3.1\_18form.runtimeconfig.json
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab20\_18form\_18form\bin\Debug\netcoreapp3.1\_18form.runtimeconfig.dev.json
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab20\_18form\_18form\bin\Debug\netcoreapp3.1\_18form.dll
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab20\_18form\_18form\bin\Debug\netcoreapp3.1\_18form.pdb
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab20\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.csprojAssemblyReference.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab20\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.Form1.resources
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab20\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.csproj.GenerateResource.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab20\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.AssemblyInfoInputs.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab20\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.AssemblyInfo.cs
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab20\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.csproj.CoreCompileInputs.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab20\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.dll
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab20\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.pdb
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab20\_18form\_18form\obj\Debug\netcoreapp3.1\_18form.genruntimeconfig.cache
