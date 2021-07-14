@@ -1,0 +1,69 @@
+﻿<Window x:Class="Lab29.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab29"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Ellipse Fill="LightBlue" Stroke="Blue" Margin="26,91,488,141"/>
+        <Ellipse Margin="89,250,551,142" Fill="White" Stroke="Blue" />
+        <Ellipse Margin="248,157,491,177" Fill="Green" RenderTransformOrigin="0.5,0.5" >
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="27.771"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Ellipse Margin="4,160,694,217" Fill="Green" RenderTransformOrigin="0.5,0.5" >
+            <Ellipse.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="96.983"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Ellipse.RenderTransform>
+        </Ellipse>
+        <Ellipse Margin="89,91,551,301" Fill="White" Stroke="Blue"/>
+        <Rectangle Stroke="Black" Fill="Black" Margin="442,137,158,97" Width="150" Height="150"></Rectangle>
+        <Rectangle Stroke="Black" Margin="507,122,143,162" Width="150" Height="150"/>
+        <Rectangle Stroke="Black" Fill="Gray" Margin="616,163,34,229">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform AngleX="45"/>
+                    <RotateTransform Angle="90.075"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+
+        </Rectangle>
+        <Rectangle Stroke="Black" Margin="467,162,183,230">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform AngleX="45"/>
+                    <RotateTransform Angle="90.269"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+
+        </Rectangle>
+        <Rectangle Stroke="Black" Fill="Gray" Margin="658,121,-8,271">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform AngleX="-45"/>
+                    <RotateTransform Angle="180.109"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+
+        </Rectangle>
+    </Grid>
+</Window>
