@@ -1,0 +1,26 @@
+C:\Users\manic\Desktop\Сейв\Учебные дисциплины\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\bin\Debug\netcoreapp3.1\lab2.1.exe
+C:\Users\manic\Desktop\Сейв\Учебные дисциплины\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\bin\Debug\netcoreapp3.1\lab2.1.deps.json
+C:\Users\manic\Desktop\Сейв\Учебные дисциплины\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\bin\Debug\netcoreapp3.1\lab2.1.runtimeconfig.json
+C:\Users\manic\Desktop\Сейв\Учебные дисциплины\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\bin\Debug\netcoreapp3.1\lab2.1.runtimeconfig.dev.json
+C:\Users\manic\Desktop\Сейв\Учебные дисциплины\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\bin\Debug\netcoreapp3.1\lab2.1.dll
+C:\Users\manic\Desktop\Сейв\Учебные дисциплины\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\bin\Debug\netcoreapp3.1\lab2.1.pdb
+C:\Users\manic\Desktop\Сейв\Учебные дисциплины\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\obj\Debug\netcoreapp3.1\lab2.1.csprojAssemblyReference.cache
+C:\Users\manic\Desktop\Сейв\Учебные дисциплины\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\obj\Debug\netcoreapp3.1\lab2.1.AssemblyInfoInputs.cache
+C:\Users\manic\Desktop\Сейв\Учебные дисциплины\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\obj\Debug\netcoreapp3.1\lab2.1.AssemblyInfo.cs
+C:\Users\manic\Desktop\Сейв\Учебные дисциплины\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\obj\Debug\netcoreapp3.1\lab2.1.csproj.CoreCompileInputs.cache
+C:\Users\manic\Desktop\Сейв\Учебные дисциплины\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\obj\Debug\netcoreapp3.1\lab2.1.dll
+C:\Users\manic\Desktop\Сейв\Учебные дисциплины\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\obj\Debug\netcoreapp3.1\lab2.1.pdb
+C:\Users\manic\Desktop\Сейв\Учебные дисциплины\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\obj\Debug\netcoreapp3.1\lab2.1.genruntimeconfig.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\bin\Debug\netcoreapp3.1\lab2.1.exe
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\bin\Debug\netcoreapp3.1\lab2.1.deps.json
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\bin\Debug\netcoreapp3.1\lab2.1.runtimeconfig.json
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\bin\Debug\netcoreapp3.1\lab2.1.runtimeconfig.dev.json
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\bin\Debug\netcoreapp3.1\lab2.1.dll
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\bin\Debug\netcoreapp3.1\lab2.1.pdb
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\obj\Debug\netcoreapp3.1\lab2.1.csprojAssemblyReference.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\obj\Debug\netcoreapp3.1\lab2.1.AssemblyInfoInputs.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\obj\Debug\netcoreapp3.1\lab2.1.AssemblyInfo.cs
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\obj\Debug\netcoreapp3.1\lab2.1.csproj.CoreCompileInputs.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\obj\Debug\netcoreapp3.1\lab2.1.dll
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\obj\Debug\netcoreapp3.1\lab2.1.pdb
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab2\lab2.1\lab2.1\obj\Debug\netcoreapp3.1\lab2.1.genruntimeconfig.cache
