@@ -1,0 +1,10 @@
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab23\Lab23.2\Lab23.2\bin\Debug\Lab23.2.exe.config
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab23\Lab23.2\Lab23.2\bin\Debug\Lab23.2.exe
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab23\Lab23.2\Lab23.2\bin\Debug\Lab23.2.pdb
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab23\Lab23.2\Lab23.2\obj\Debug\Lab23.2.csprojAssemblyReference.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab23\Lab23.2\Lab23.2\obj\Debug\Lab23._2.Form1.resources
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab23\Lab23.2\Lab23.2\obj\Debug\Lab23._2.Properties.Resources.resources
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab23\Lab23.2\Lab23.2\obj\Debug\Lab23.2.csproj.GenerateResource.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab23\Lab23.2\Lab23.2\obj\Debug\Lab23.2.csproj.CoreCompileInputs.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab23\Lab23.2\Lab23.2\obj\Debug\Lab23.2.exe
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab23\Lab23.2\Lab23.2\obj\Debug\Lab23.2.pdb
