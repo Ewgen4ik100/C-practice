@@ -1,0 +1,15 @@
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab30\Lab30\Lab30\Lab30\bin\Debug\Lab30.exe.config
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab30\Lab30\Lab30\Lab30\bin\Debug\Lab30.exe
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab30\Lab30\Lab30\Lab30\bin\Debug\Lab30.pdb
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab30\Lab30\Lab30\Lab30\obj\Debug\Lab30.csprojAssemblyReference.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab30\Lab30\Lab30\Lab30\obj\Debug\MainWindow.g.cs
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab30\Lab30\Lab30\Lab30\obj\Debug\App.g.cs
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab30\Lab30\Lab30\Lab30\obj\Debug\Lab30_MarkupCompile.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab30\Lab30\Lab30\Lab30\obj\Debug\Lab30_MarkupCompile.lref
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab30\Lab30\Lab30\Lab30\obj\Debug\MainWindow.baml
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab30\Lab30\Lab30\Lab30\obj\Debug\Lab30.g.resources
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab30\Lab30\Lab30\Lab30\obj\Debug\Lab30.Properties.Resources.resources
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab30\Lab30\Lab30\Lab30\obj\Debug\Lab30.csproj.GenerateResource.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab30\Lab30\Lab30\Lab30\obj\Debug\Lab30.csproj.CoreCompileInputs.cache
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab30\Lab30\Lab30\Lab30\obj\Debug\Lab30.exe
+C:\Users\manic\Desktop\КПЯП\КПЯП\ПРАКТИКА\Lab30\Lab30\Lab30\Lab30\obj\Debug\Lab30.pdb
