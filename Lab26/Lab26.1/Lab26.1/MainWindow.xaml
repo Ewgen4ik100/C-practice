@@ -1,0 +1,21 @@
+﻿<Window x:Class="Lab26._1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab26._1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="textbox1" HorizontalAlignment="Left" Height="31" Margin="90,252,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="108"/>
+        <Label x:Name="lRez" Content="ответ" HorizontalAlignment="Left" Height="28" Margin="90,185,0,0" VerticalAlignment="Top" Width="108" RenderTransformOrigin="0.499,0.601"/>
+        <Label x:Name="lRez2" Content="Ответ" HorizontalAlignment="Left" Height="28" Margin="510,123,0,0" VerticalAlignment="Top" Width="108" RenderTransformOrigin="0.499,0.601"/>
+        <TextBox x:Name="ty" HorizontalAlignment="Left" Height="31" Margin="510,252,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="108"/>
+        <TextBox x:Name="tx" HorizontalAlignment="Left" Height="31" Margin="510,0,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Center" Width="108"/>
+        <Label x:Name="lx" Content="X =" HorizontalAlignment="Left" Height="28" Margin="455,0,0,0" VerticalAlignment="Center" Width="50" RenderTransformOrigin="0.499,0.601"/>
+        <Label x:Name="ly" Content="Y =" HorizontalAlignment="Left" Height="29" Margin="455,253,0,0" VerticalAlignment="Top" Width="50" RenderTransformOrigin="0.499,0.601"/>
+        <Button x:Name="bRezq" Content="Результат" HorizontalAlignment="Left" Height="37" Margin="90,333,0,0" VerticalAlignment="Top" Width="108" Click="bRezq_Click"/>
+        <Button x:Name="bRezw" Content="Результат" HorizontalAlignment="Left" Height="32" Margin="510,331,0,0" VerticalAlignment="Top" Width="108" Click="bRezw_Click"/>
+
+    </Grid>
+</Window>
